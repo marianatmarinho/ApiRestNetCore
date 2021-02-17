@@ -12802,11 +12802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mariana\\Desktop\\Mariana\\pessoal\\Api\\Api\\Api.csproj",
+      "projectUniqueName": "C:\\Users\\mariana\\Desktop\\Mariana\\pessoal\\Projetos_versionados\\ApiRestNetCore\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\Users\\mariana\\Desktop\\Mariana\\pessoal\\Api\\Api\\Api.csproj",
+      "projectPath": "C:\\Users\\mariana\\Desktop\\Mariana\\pessoal\\Projetos_versionados\\ApiRestNetCore\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\mariana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mariana\\Desktop\\Mariana\\pessoal\\Api\\Api\\obj\\",
+      "outputPath": "C:\\Users\\mariana\\Desktop\\Mariana\\pessoal\\Projetos_versionados\\ApiRestNetCore\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
